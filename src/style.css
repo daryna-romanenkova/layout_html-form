@@ -4,18 +4,9 @@
 }
 
 .fieldset {
-  margin-top: 20px;
   margin-bottom: 20px;
 }
 
-button {
-  margin-top: 10px;
-}
-
-.firstLabel {
-  margin-top: 0;
-}
-
-form .fieldset:first-child {
+.form-field:nth-child(2) {
   margin-top: 0;
 }
